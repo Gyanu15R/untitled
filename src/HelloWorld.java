@@ -3,5 +3,6 @@ public class HelloWorld {
     {
         String theme = "Hello Im World" ;
         System.out.println("I am passing this information--"+"\t"+theme);
+        System.out.println("I am passing this information--"+"\t"+theme);
     }
 }
